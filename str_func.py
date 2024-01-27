@@ -3,4 +3,5 @@ def func(value):
     return value.title()
 
 def func2(value):
+    """вот та функция"""
     return value.upper()
