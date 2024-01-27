@@ -1,7 +1,5 @@
 def func(value):
-    """не та функция"""
+    """lol"""
     return value.title()
-
-def func2(value):
-    """вот та функция"""
-    return value.upper()
+def func3():
+    pass
